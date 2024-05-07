@@ -11,6 +11,7 @@ line 145: num_threads_per_process
 KEEP IN MIND !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 num_processes <= number of cores of your CPU
+
 number of augmented images for one image = num_threads_per_process X num_processes
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
